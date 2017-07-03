@@ -1,2 +1,4 @@
 # hello-world
-A repository
+hey everyone
+I am new at this
+I know about c++ and java
